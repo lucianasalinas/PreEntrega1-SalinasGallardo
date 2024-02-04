@@ -3,7 +3,7 @@
     color: #333; 
     padding: 1rem 2rem; 
     display: flex; 
-    justify-content: space-between; 
+    justify-content: space-around; 
     align-items: center; 
     position: fixed;
     top: 0;
@@ -21,7 +21,7 @@
     height: auto;
   }
   
-  /* Navigation link styling */
+  /* Nav */
   .navDiv ul {
     list-style: none; 
     margin: 0;
