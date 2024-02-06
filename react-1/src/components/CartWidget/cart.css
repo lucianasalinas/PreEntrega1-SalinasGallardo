@@ -1,0 +1,15 @@
+.cartIcon{
+    display: inline-block;
+    font-weight: 300;
+    text-decoration: none;
+    color: #333;
+}
+
+.cartIcon:hover{
+    color: #f07008;
+    font-weight: 300;
+}
+
+.cartIcon:visited{
+    color: #333;
+}
